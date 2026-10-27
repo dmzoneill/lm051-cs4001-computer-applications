@@ -1,5 +1,9 @@
 # CS4001 Computer Applications
 
+<p align="center">
+  <img src=".github/logo.png" alt="lm051-cs4001-computer-applications logo" width="128" />
+</p>
+
 Java coursework for the CS4001 Computer Applications module, from the LM051
 Computer Systems degree at the University of Limerick.
 
